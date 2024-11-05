@@ -1,0 +1,416 @@
+{
+  "context": {
+    "projectPath": "S:/Unity/Projects/07_tilt_five/Dark_Fantasy_Game/Packages",
+    "unityVersion": "6000.0.22f1"
+  },
+  "inputs": [
+    "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Packages\\manifest.json",
+    "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.ai.navigation@2.0.4": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.ai.navigation@3f89ad87253d",
+      "fingerprint": "3f89ad87253dcaae2d0bb583bd5ef4c4f2c17764",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.4",
+      "source": "registry"
+    },
+    "com.unity.collab-proxy@2.5.2": {
+      "name": "com.unity.collab-proxy",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.collab-proxy@da7e55b87e08",
+      "fingerprint": "da7e55b87e08569f31766e7cabc37bc033c9c7f9",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.5.2",
+      "source": "registry"
+    },
+    "com.unity.ide.rider@3.0.34": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.ide.rider@ecbf706690e5",
+      "fingerprint": "ecbf706690e5ce42dc165ddd8e5754acda3dc6b9",
+      "editorCompatibility": "2019.4.6f1",
+      "version": "3.0.34",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.inputsystem@1.11.2": {
+      "name": "com.unity.inputsystem",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.inputsystem@3c4a97c3950f",
+      "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.2",
+      "source": "registry"
+    },
+    "com.unity.multiplayer.center@1.0.0": {
+      "name": "com.unity.multiplayer.center",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.multiplayer.center@6628bce149e1",
+      "fingerprint": "6628bce149e18eecd6313ed3dcd823e71d4a666a",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.universal@17.0.3": {
+      "name": "com.unity.render-pipelines.universal",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@cd3c915f8f4c",
+      "fingerprint": "cd3c915f8f4c5944f650342c84cd0999bebafca4",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.test-framework@0a21eb82d95c",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
+    },
+    "com.unity.timeline@1.8.7": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.timeline@c58b4ee65782",
+      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.7",
+      "source": "registry"
+    },
+    "com.unity.toolchain.win-x86_64-linux-x86_64@2.0.10": {
+      "name": "com.unity.toolchain.win-x86_64-linux-x86_64",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.toolchain.win-x86_64-linux-x86_64@426618737602",
+      "fingerprint": "426618737602d0ff76e85db678b73b56aa2e891a",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.10",
+      "source": "registry"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.ugui@b0e0b1c82856",
+      "fingerprint": "b0e0b1c828561e8a0d130fa0e71078e9684ef47f",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.visualscripting@1.9.5": {
+      "name": "com.unity.visualscripting",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b",
+      "fingerprint": "1b53f46e931bea668e53f1feb0ac9138170c9455",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.9.5",
+      "source": "registry"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.sysroot@2.0.10": {
+      "name": "com.unity.sysroot",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.sysroot@7bbbb9339c14",
+      "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.10",
+      "source": "registry"
+    },
+    "com.unity.sysroot.linux-x86_64@2.0.9": {
+      "name": "com.unity.sysroot.linux-x86_64",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.sysroot.linux-x86_64@1998d1c7730e",
+      "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.9",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.ext.nunit@60ef35ffd3cd",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.render-pipelines.core@17.0.3": {
+      "name": "com.unity.render-pipelines.core",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.render-pipelines.core@7657c7f26638",
+      "fingerprint": "7657c7f26638908b1d9bb11a9cbe46a2c3324c9a",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.shadergraph@17.0.3": {
+      "name": "com.unity.shadergraph",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.shadergraph@1a8087dd3465",
+      "fingerprint": "1a8087dd34652dac7129dd0000d067941828df56",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.universal-config@17.0.3": {
+      "name": "com.unity.render-pipelines.universal-config",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@fa63c96d3e1a",
+      "fingerprint": "fa63c96d3e1af317d84d171cd6c0e0658ab159df",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.searcher@4.9.2": {
+      "name": "com.unity.searcher",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.searcher@90d011a70418",
+      "fingerprint": "90d011a70418fd5b0f4b8e86df39444d2af228dd",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.2",
+      "source": "registry"
+    },
+    "com.unity.burst@1.8.18": {
+      "name": "com.unity.burst",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.burst@616862665d8c",
+      "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.18",
+      "source": "registry"
+    },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
+      "source": "registry"
+    },
+    "com.unity.collections@2.4.3": {
+      "name": "com.unity.collections",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.collections@eba9b2ae55c0",
+      "fingerprint": "eba9b2ae55c09c3548eaeac72a96dda87b0640cf",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.4.3",
+      "source": "registry"
+    },
+    "com.unity.rendering.light-transport@1.0.1": {
+      "name": "com.unity.rendering.light-transport",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.rendering.light-transport@8e780c06f5c1",
+      "fingerprint": "8e780c06f5c1408ffa25004f2c90b6802481bbd8",
+      "editorCompatibility": "2023.3.0b1",
+      "version": "1.0.1",
+      "source": "builtin"
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d6f9955a5d5f",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.test-framework.performance@3.0.3": {
+      "name": "com.unity.test-framework.performance",
+      "resolvedPath": "S:\\Unity\\Projects\\07_tilt_five\\Dark_Fantasy_Game\\Library\\PackageCache\\com.unity.test-framework.performance@fb0dc592af8b",
+      "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.0.3",
+      "source": "registry"
+    }
+  }
+}
